@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Binav Gautam
-- 👀 I’m interested in React Development specifically and MERN more generally
+- 👀 I’m interested in React Development and MERN stack
 - 🌱 I’m currently learning too many things lmao
 - 💞️ I’m looking to collaborate on real world projects using React
 - 📫 Reach me at binavgautam512@gmail.com
